@@ -1,4 +1,4 @@
-a=1
-b=2
-d=a+b
-print(d)
+e=1
+f=2
+g=e+f
+print(g)
